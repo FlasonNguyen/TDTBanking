@@ -8,9 +8,7 @@ This is a basic project structure to help you to start building your own RESTful
 - RESTful API including pagination,sorting and limiting fields
 - CRUD operations with MongoDB
 - Security: encyption, sanitization and more
-- Authentication with JWT : login and signup
 - Authorization (User roles and permissions)
-- Error handling
 - Enviroment Varaibles
 - handling error outside Express
 - Catching Uncaught Exception
